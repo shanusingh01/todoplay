@@ -22,7 +22,7 @@ todoplay
 
 ---
 
-## 🧠 What You Learn
+## 🧠 Learning
 
 - Using `prompt()` for user input
 - Working with arrays (`push`, `splice`)
